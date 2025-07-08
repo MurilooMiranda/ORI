@@ -1,9 +1,17 @@
+
+/*
+
+Autores:
+    Murilo de Miranda Silva - RA: 812069
+*/
+
+
 #include "Hash/TabelaHash.h"
 #include "Set/Set.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <ctype.h> // For tolower()
+#include <ctype.h> 
 
 void carregaCSVParaHash(Hash* ha, const char* nomeArquivo) {
     if (ha == NULL) return;

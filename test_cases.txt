@@ -1,0 +1,59 @@
+# Testes de Palavras Únicas (Existentes)
+hello
+lampard
+i
+hi
+love
+
+# Testes de Palavras Únicas (Não Existentes)
+cachorro
+computador
+pirassununga
+banana
+
+# Testes de Operadores Válidos (AND)
+hello AND lampard
+i AND love
+love AND me
+you AND hi
+man AND love
+
+# Testes de Operadores Válidos (OR)
+hello OR oi
+i OR you
+lampard OR frank
+sad OR happy
+love OR hate
+
+# Testes de Operadores Válidos (NOT)
+i NOT love
+love NOT hate
+hello NOT goodbye
+man NOT woman
+sad NOT happy
+
+# Testes de Combinações de Palavras e Operadores (Complexos)
+i AND love AND you # Teste de formato inválido (mais de um operador)
+love OR hate AND me # Teste de formato inválido (mais de um operador)
+hello AND (lampard OR frank) # Teste de formato inválido (parênteses)
+
+# Testes de Entradas Inválidas / Mal Formadas
+i am
+hello AND
+AND hello
+hello AND AND lampard
+oi AND OR hello
+palavra1 OPERADOR palavra2 # Formato genérico, inválido
+helloANDlampard # Sem espaço no operador
+testetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetesteteste # Palavra muito longa
+hello AND tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt # Palavra muito longa
+
+# Testes de Sensibilidade a Maiúsculas/Minúsculas
+HELLO
+Lampard
+I
+Hi
+love AND ME
+
+# Teste de Saída
+sair

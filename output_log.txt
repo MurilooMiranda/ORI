@@ -1,0 +1,946 @@
+---------------------------------------------------
+Compilação concluída.
+---------------------------------------------------
+# Testes de Palavras Únicas (Existentes)
+
+Executando teste: 'hello'
+Entrada: hello
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com uma palavra detectada: 'hello'
+Resultado da pesquisa unica:
+ID: 29 -> Texto: "   goodbye exams, HELLO ALCOHOL TONIGHT "
+ID: 130 -> Texto:  - You: hi Stranger: HELLO I AM FRANK LAMPARD HOW ARE YOU You: fine You: and urself Stranger: i am gay Your... http://tumblr.com/xaj24dkly
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'lampard'
+Entrada: lampard
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com uma palavra detectada: 'lampard'
+Resultado da pesquisa unica:
+ID: 130 -> Texto:  - You: hi Stranger: HELLO I AM FRANK LAMPARD HOW ARE YOU You: fine You: and urself Stranger: i am gay Your... http://tumblr.com/xaj24dkly
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'i'
+Entrada: i
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com uma palavra detectada: 'i'
+Resultado da pesquisa unica:
+ID: 2 -> Texto:                    I missed the New Moon trailer...
+ID: 4 -> Texto:           .. Omgaga. Im sooo  im gunna CRy. I've been at this dentist since 11.. I was suposed 2 just get a crown put on (30mins)...
+ID: 5 -> Texto:          i think mi bf is cheating on me!!!       T_T
+ID: 6 -> Texto:          or i just worry too much?        
+ID: 9 -> Texto:       handed in my uniform today . i miss you already
+ID: 10 -> Texto:       hmmmm.... i wonder how she my number @-)
+ID: 11 -> Texto:       I must think about positive..
+ID: 16 -> Texto:     &lt;-------- This is the way i feel right now...
+ID: 17 -> Texto: "    awhhe man.... I'm completely useless rt now. Funny, all I can do is twitter. http://myloc.me/27HX"
+ID: 18 -> Texto:     Feeling strangely fine. Now I'm gonna go listen to some Semisonic to celebrate
+ID: 20 -> Texto:     I just cut my beard off. It's only been growing for well over a year. I'm gonna start it over. @shaunamanu is happy in the meantime.
+ID: 24 -> Texto:    &lt;---Sad level is 3. I was writing a massive blog tweet on Myspace and my comp shut down. Now it's all lost *lays in fetal position*
+ID: 25 -> Texto:    ...  Headed to Hospitol : Had to pull out of the Golf Tourny in 3rd place!!!!!!!!!!! I Think I Re-Ripped something !!! Yeah THAT !!
+ID: 27 -> Texto:    can't be bothered. i wish i could spend the rest of my life just sat here and going to gigs. seriously.
+ID: 30 -> Texto:    I didn't realize it was THAT deep. Geez give a girl a warning atleast!
+ID: 31 -> Texto:    I hate it when any athlete appears to tear an ACL on live television.
+ID: 32 -> Texto:    i miss you guys too     i think i'm wearing skinny jeans a cute sweater and heels   not really sure   what are you doing today
+ID: 36 -> Texto:    Really Dont Like Doing my Room Its So Boring  Sick Of Doing My Wardrobe Out Cant Waiit Till I Have My Walk In One  Yay
+ID: 44 -> Texto: "  ... Do I need to even say it?  Do I?  Well, here I go anyways:  CHRIS CORNELL IN CHICAGO!  ... TONIGHT!    "
+ID: 47 -> Texto:   @Spiral_galaxy @YMPtweet  it really makes me sad when i look at Muslims reality now
+ID: 54 -> Texto:   but i'm proud.
+ID: 56 -> Texto:   David must be hospitalized for five days end of July (palatine tonsils). I will probably never see Katie in concert. 
+ID: 62 -> Texto: -  I always get what I want
+ID: 63 -> Texto:   I bend backwards  
+ID: 64 -> Texto:   i get off work sooooon! i miss cody booo. haven't seen him in foreverr!
+ID: 65 -> Texto:   I hate allergies. Should I get my hair cut tomorrow? I'm taking a public poll...
+ID: 66 -> Texto:  - I love you guys so much that it hurts. http://tumblr.com/xkh1z19us
+ID: 67 -> Texto:   I miss Earl
+ID: 69 -> Texto: "  I missed the first hour of SYTYCD last night, and I can't find it online!"
+ID: 70 -> Texto:   I need a U2 fix NOW!
+ID: 71 -> Texto:   I never thought I'd become second choice...
+ID: 73 -> Texto:   I think Manuel (my Basil plant) only has days to live   
+ID: 74 -> Texto:   I wanna be at home @ church...I wonder wht they are doing?
+ID: 75 -> Texto:   i wanna make my own pizza
+ID: 76 -> Texto: "  i want a 120gb harddrive, or a 37 inch tv, or a new guitar.  anyonefeeling generous?  =p   x"
+ID: 77 -> Texto:   i want a hug
+ID: 79 -> Texto:   I wanted to sleep in this morning but a mean kid through a popsicle stick at me head. I wish I could fly away like those squirrels
+ID: 80 -> Texto:   i was too slow to get $1 Up tix
+ID: 81 -> Texto: "  I will send sunshine to Northern Ireland, are you going swimming today @kezbat"
+ID: 82 -> Texto:   I wish I could go to T4 On The Beach :'(    Would be great to see @Shontelle_Layne &amp; @DanMerriweather   
+ID: 83 -> Texto: "  i would be so much happier if the walls of my bedroom were painted white,"
+ID: 84 -> Texto:   idk wat 2 do who can i trust me im sorry 4 all da pain i have caused nebody ima take dis time out 2 straighten myself out i luv yall
+ID: 85 -> Texto:   I'm finding the intercept slope..and banging my head against the wall..Math brain heads come save me
+ID: 86 -> Texto:   I'm really going to bed now...
+ID: 89 -> Texto:   In case I feel emo in camp (feeling a wee bit of it alr)...am bringing in the Human Rights Watch World Report 2009..hope it'll work
+ID: 92 -> Texto:   Jus Got Hom Fr. TDa Funeral... I'm So Sad! I Cried So Much Times! Much Love Grandpa!&lt;3 I Never Got To Say My Last &quot;Goodbye&quot; to Him.
+ID: 94 -> Texto: "  Just got home, and I got to see my friend Zahra whom I haven't seen since We graduated!!!  That makes me so happy."
+ID: 97 -> Texto:   Mom says I have to get a new phone IMMEDIATELY....off to T-Mobile.  she paying....
+ID: 100 -> Texto:   no movie times for sunday!  Rats will have to plan tomorrow. I guess this means I have to work on those two  presentations I am doing!
+ID: 113 -> Texto: "  Thanks, I need all the help i can get."
+ID: 116 -> Texto: "  told not to drink w/my Rx so just gave all the b.b. porter &amp; obs. stout that I brought home from OR to my neighbors.  v, v, sad."
+ID: 121 -> Texto:   waahhh now I'm getting sad....miss hub :-'(&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;
+ID: 124 -> Texto:   where is my picture i feel naked 
+ID: 125 -> Texto:   Why aren't there any trains going to manchester on a sunday?!!  Now I can't go to the @jonasbrothers concert.
+ID: 126 -> Texto:  - Why must people be so picky. I mean 6 hours work and no dice!? what�s up with that! http://tumblr.com/xsg1m3ufn
+ID: 130 -> Texto:  - You: hi Stranger: HELLO I AM FRANK LAMPARD HOW ARE YOU You: fine You: and urself Stranger: i am gay Your... http://tumblr.com/xaj24dkly
+ID: 144 -> Texto:  &quot;I know you hungry so lets go outside on the balcony so you can eat&quot;....
+ID: 145 -> Texto:  &quot;I want you so bad it's driving me  mad&quot;
+ID: 148 -> Texto:  &quot;Try to turn on my tv to get you out of my head. I've got this feeling inside that I just won't admit...&quot; (that is literally how I feel)
+ID: 149 -> Texto: " &quot;well, the truth is I miss you so&quot;- Coldplay"
+ID: 154 -> Texto: - *cries* I'm going to miss Harry Potter when it comes out.  I'm leaving to Vietnam on July 11th.  I'm going to cry!!
+ID: 155 -> Texto: -- *hummin* I SAY &quot;shut up &amp; put your money where your mouth is&quot; ...headin' out to reality. Cheers Twitter world! 
+ID: 160 -> Texto:  .. i wantt hiim soo badd !!
+ID: 161 -> Texto: " .. watching tv , bed, shopping w. mom, out w. trent hopefully, i need my best friend"
+ID: 164 -> Texto:  ... Why am I feeling worse??? F!!!
+ID: 172 -> Texto: " : Let's have fun,. When I give ya what I give ya."
+ID: 173 -> Texto:  :[ I don't want to move!!!
+ID: 174 -> Texto: " :-D ))))))))...WHAT AN AMAZING NIGHT,DAY &amp; NIGHT AGAIN!! HI TWITS! I MiSS U GUYS"
+ID: 177 -> Texto:  @ taylorrhicks enjoy chicago..b new venue is always cool. You shine everywhere you go. I know who you are. In time so will everyone. 
+ID: 186 -> Texto: " @ange_black @sween I call dibs on the Voltron arm. No the leg. Wait. Where are my manners? @baileygenine,.. http://tr.im/oERy"
+ID: 187 -> Texto:  @CharlottegC I just saw ur mum
+ID: 195 -> Texto: "- @Darcy_Lussier @lkrammes I went to work once last year with no pants. Ironically, that was my last day of work at that job. FML "
+ID: 205 -> Texto: " @hawaiibuzz: &quot;yes, i am lol j/k luv this! @DJDolceVita: &quot;you are like a gentle breeze that has blown throug... �(TM)� http://blip.fm/~7s7mn"
+ID: 208 -> Texto:  @Hijack_King7 I hope u have cheeSe burgerS 4 @Snubbmatic LMBO
+ID: 210 -> Texto:  @ivegotzooms I am nothing of the kind and everything of the sort http://tr.im/mLsn
+ID: 211 -> Texto: - @jerrybattiste &quot;..pick up some flowers for the teacher..&quot; I'm jealous! I want flowers without having to be in the hospital to get them! 
+ID: 213 -> Texto:  @jonasbrothers Why is your YouTube account suspended? lol Single Ladies dance? I NEED TO WATCH IT AGAIN!
+ID: 214 -> Texto: - @JuicyJones I know.. SOLD OUT though. 
+ID: 217 -> Texto:  @katiedontcry should get on aim and talk to me. i miss her.
+ID: 219 -> Texto: " @khead I'll tell ya, grocery store. It was better when you blasted the oldies. Sugar Ray does not make me.. http://tr.im/jd0y"
+ID: 223 -> Texto: "- @littlecharva - I'm immune to dentists' drills etc now, it just doesn't bother me at all. Having gum lift surgery next week tho *eek* "
+ID: 233 -> Texto: - @nibaq Thanks for letting me know. I'm going to check out Eureka later with this knowledge 
+ID: 236 -> Texto: "- @PoisonGirl10 What's up? @sevgli Hey you!  @lowridergrl I'm doing ok, thx. You? @cristinerafae You, too! TTYL! @Nic0pic0 Oh, sowwy! lol"
+ID: 239 -> Texto:                                      I miss her so much already...
+ID: 240 -> Texto:                just practising.....how I feel       
+ID: 245 -> Texto:        FS keeps crashing when I try to load Bungie plane.
+ID: 255 -> Texto: "   Awwwwwh  i wanted Aiden Davis 2 WIN, i &lt;3 him so bummed he didnt "
+ID: 258 -> Texto: "   Friends like these ... no thanks, I'm not fake! ^ ^"
+ID: 260 -> Texto:    i think my bf is cheating on me!!!!     
+ID: 261 -> Texto:    i wanna play with my camera but i will settle for playing with iv's and heart monitors
+ID: 262 -> Texto:    i want an octo drive
+ID: 263 -> Texto: "   I want to display my pretty voltron!  Upside, I get two pretty voltrons!"
+ID: 264 -> Texto:    i want to find a way to put my photos on phone here i have Bluetooth in both phone and computer but it doesn't work
+ID: 271 -> Texto: "   man, oh man     (i should punch myself in the head, but im ok with that)"
+ID: 281 -> Texto:    we break dance not hearts by Short Stack is my ringtone.... i LOVE that song!!!.....
+ID: 283 -> Texto:   #squarespace #trackle  no apple iphone card for us  maybe tomorrow! I guess it helps if you tweet it huh?  We forgot 
+ID: 286 -> Texto:           i want some ben&amp;jerrys cake batter please ugh
+ID: 290 -> Texto:       i think i'm going to go 3 a long drive then when i get to the pacific ocean open my car door and throw my pc in the ocean
+ID: 293 -> Texto:      I dont like this weekend.. Huhuhu ( (
+ID: 294 -> Texto:      I'll get on it right away!
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'hi'
+Entrada: hi
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com uma palavra detectada: 'hi'
+Resultado da pesquisa unica:
+ID: 130 -> Texto:  - You: hi Stranger: HELLO I AM FRANK LAMPARD HOW ARE YOU You: fine You: and urself Stranger: i am gay Your... http://tumblr.com/xaj24dkly
+ID: 174 -> Texto: " :-D ))))))))...WHAT AN AMAZING NIGHT,DAY &amp; NIGHT AGAIN!! HI TWITS! I MiSS U GUYS"
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'love'
+Entrada: love
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com uma palavra detectada: 'love'
+Resultado da pesquisa unica:
+ID: 57 -> Texto:   friends are leaving me 'cause of this stupid love  http://bit.ly/ZoxZC
+ID: 66 -> Texto:  - I love you guys so much that it hurts. http://tumblr.com/xkh1z19us
+ID: 92 -> Texto:   Jus Got Hom Fr. TDa Funeral... I'm So Sad! I Cried So Much Times! Much Love Grandpa!&lt;3 I Never Got To Say My Last &quot;Goodbye&quot; to Him.
+ID: 156 -> Texto: -- . *sigh* You cant love someone that doesn't love you back that's like stalker status . GET a divorce &amp;&amp; move on . Trinity. 
+ID: 158 -> Texto: "-- . Aiqht Goodniqht . Tri, Neena, Malcolm, Chaise , JLew, ATL &lt;333 Love Much . "
+ID: 229 -> Texto:  @michaelsarver so do you give him every inch of your love every night?
+ID: 241 -> Texto:             Miss my love Jamie
+ID: 278 -> Texto:    thank god today is friday !!! I love Ti Ti! &lt;3
+ID: 281 -> Texto:    we break dance not hearts by Short Stack is my ringtone.... i LOVE that song!!!.....
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+# Testes de Palavras Únicas (Não Existentes)
+
+Executando teste: 'cachorro'
+Entrada: cachorro
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com uma palavra detectada: 'cachorro'
+Nenhum tweet encontrado para a consulta.
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'computador'
+Entrada: computador
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com uma palavra detectada: 'computador'
+Nenhum tweet encontrado para a consulta.
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'pirassununga'
+Entrada: pirassununga
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com uma palavra detectada: 'pirassununga'
+Nenhum tweet encontrado para a consulta.
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'banana'
+Entrada: banana
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com uma palavra detectada: 'banana'
+Nenhum tweet encontrado para a consulta.
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+# Testes de Operadores Válidos (AND)
+
+Executando teste: 'hello AND lampard'
+Entrada: hello AND lampard
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com duas palavras detectada: 'hello AND lampard'
+Resultado da interseccao:
+ID: 130 -> Texto:  - You: hi Stranger: HELLO I AM FRANK LAMPARD HOW ARE YOU You: fine You: and urself Stranger: i am gay Your... http://tumblr.com/xaj24dkly
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'i AND love'
+Entrada: i AND love
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com duas palavras detectada: 'i AND love'
+Resultado da interseccao:
+ID: 66 -> Texto:  - I love you guys so much that it hurts. http://tumblr.com/xkh1z19us
+ID: 92 -> Texto:   Jus Got Hom Fr. TDa Funeral... I'm So Sad! I Cried So Much Times! Much Love Grandpa!&lt;3 I Never Got To Say My Last &quot;Goodbye&quot; to Him.
+ID: 281 -> Texto:    we break dance not hearts by Short Stack is my ringtone.... i LOVE that song!!!.....
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'love AND me'
+Entrada: love AND me
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com duas palavras detectada: 'love AND me'
+Resultado da interseccao:
+ID: 57 -> Texto:   friends are leaving me 'cause of this stupid love  http://bit.ly/ZoxZC
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'you AND hi'
+Entrada: you AND hi
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com duas palavras detectada: 'you AND hi'
+Resultado da interseccao:
+ID: 130 -> Texto:  - You: hi Stranger: HELLO I AM FRANK LAMPARD HOW ARE YOU You: fine You: and urself Stranger: i am gay Your... http://tumblr.com/xaj24dkly
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'man AND love'
+Entrada: man AND love
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com duas palavras detectada: 'man AND love'
+Resultado da interseccao:
+Nenhum tweet encontrado para a consulta.
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+# Testes de Operadores Válidos (OR)
+
+Executando teste: 'hello OR oi'
+Entrada: hello OR oi
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com duas palavras detectada: 'hello OR oi'
+Resultado da uniao:
+ID: 29 -> Texto: "   goodbye exams, HELLO ALCOHOL TONIGHT "
+ID: 130 -> Texto:  - You: hi Stranger: HELLO I AM FRANK LAMPARD HOW ARE YOU You: fine You: and urself Stranger: i am gay Your... http://tumblr.com/xaj24dkly
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'i OR you'
+Entrada: i OR you
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com duas palavras detectada: 'i OR you'
+Resultado da uniao:
+ID: 2 -> Texto:                    I missed the New Moon trailer...
+ID: 4 -> Texto:           .. Omgaga. Im sooo  im gunna CRy. I've been at this dentist since 11.. I was suposed 2 just get a crown put on (30mins)...
+ID: 5 -> Texto:          i think mi bf is cheating on me!!!       T_T
+ID: 6 -> Texto:          or i just worry too much?        
+ID: 9 -> Texto:       handed in my uniform today . i miss you already
+ID: 10 -> Texto:       hmmmm.... i wonder how she my number @-)
+ID: 11 -> Texto:       I must think about positive..
+ID: 15 -> Texto:      ok thats it you win.
+ID: 16 -> Texto:     &lt;-------- This is the way i feel right now...
+ID: 17 -> Texto: "    awhhe man.... I'm completely useless rt now. Funny, all I can do is twitter. http://myloc.me/27HX"
+ID: 18 -> Texto:     Feeling strangely fine. Now I'm gonna go listen to some Semisonic to celebrate
+ID: 20 -> Texto:     I just cut my beard off. It's only been growing for well over a year. I'm gonna start it over. @shaunamanu is happy in the meantime.
+ID: 23 -> Texto:     You're the only one who can see this cause no one else is following me this is for you because you're pretty awesome
+ID: 24 -> Texto:    &lt;---Sad level is 3. I was writing a massive blog tweet on Myspace and my comp shut down. Now it's all lost *lays in fetal position*
+ID: 25 -> Texto:    ...  Headed to Hospitol : Had to pull out of the Golf Tourny in 3rd place!!!!!!!!!!! I Think I Re-Ripped something !!! Yeah THAT !!
+ID: 27 -> Texto:    can't be bothered. i wish i could spend the rest of my life just sat here and going to gigs. seriously.
+ID: 30 -> Texto:    I didn't realize it was THAT deep. Geez give a girl a warning atleast!
+ID: 31 -> Texto:    I hate it when any athlete appears to tear an ACL on live television.
+ID: 32 -> Texto:    i miss you guys too     i think i'm wearing skinny jeans a cute sweater and heels   not really sure   what are you doing today
+ID: 36 -> Texto:    Really Dont Like Doing my Room Its So Boring  Sick Of Doing My Wardrobe Out Cant Waiit Till I Have My Walk In One  Yay
+ID: 44 -> Texto: "  ... Do I need to even say it?  Do I?  Well, here I go anyways:  CHRIS CORNELL IN CHICAGO!  ... TONIGHT!    "
+ID: 47 -> Texto:   @Spiral_galaxy @YMPtweet  it really makes me sad when i look at Muslims reality now
+ID: 49 -> Texto: "  and the entertainment is over, someone complained properly..   @rupturerapture experimental you say? he should experiment with a melody"
+ID: 54 -> Texto:   but i'm proud.
+ID: 56 -> Texto:   David must be hospitalized for five days end of July (palatine tonsils). I will probably never see Katie in concert. 
+ID: 62 -> Texto: -  I always get what I want
+ID: 63 -> Texto:   I bend backwards  
+ID: 64 -> Texto:   i get off work sooooon! i miss cody booo. haven't seen him in foreverr!
+ID: 65 -> Texto:   I hate allergies. Should I get my hair cut tomorrow? I'm taking a public poll...
+ID: 66 -> Texto:  - I love you guys so much that it hurts. http://tumblr.com/xkh1z19us
+ID: 67 -> Texto:   I miss Earl
+ID: 69 -> Texto: "  I missed the first hour of SYTYCD last night, and I can't find it online!"
+ID: 70 -> Texto:   I need a U2 fix NOW!
+ID: 71 -> Texto:   I never thought I'd become second choice...
+ID: 73 -> Texto:   I think Manuel (my Basil plant) only has days to live   
+ID: 74 -> Texto:   I wanna be at home @ church...I wonder wht they are doing?
+ID: 75 -> Texto:   i wanna make my own pizza
+ID: 76 -> Texto: "  i want a 120gb harddrive, or a 37 inch tv, or a new guitar.  anyonefeeling generous?  =p   x"
+ID: 77 -> Texto:   i want a hug
+ID: 79 -> Texto:   I wanted to sleep in this morning but a mean kid through a popsicle stick at me head. I wish I could fly away like those squirrels
+ID: 80 -> Texto:   i was too slow to get $1 Up tix
+ID: 81 -> Texto: "  I will send sunshine to Northern Ireland, are you going swimming today @kezbat"
+ID: 82 -> Texto:   I wish I could go to T4 On The Beach :'(    Would be great to see @Shontelle_Layne &amp; @DanMerriweather   
+ID: 83 -> Texto: "  i would be so much happier if the walls of my bedroom were painted white,"
+ID: 84 -> Texto:   idk wat 2 do who can i trust me im sorry 4 all da pain i have caused nebody ima take dis time out 2 straighten myself out i luv yall
+ID: 85 -> Texto:   I'm finding the intercept slope..and banging my head against the wall..Math brain heads come save me
+ID: 86 -> Texto:   I'm really going to bed now...
+ID: 89 -> Texto:   In case I feel emo in camp (feeling a wee bit of it alr)...am bringing in the Human Rights Watch World Report 2009..hope it'll work
+ID: 92 -> Texto:   Jus Got Hom Fr. TDa Funeral... I'm So Sad! I Cried So Much Times! Much Love Grandpa!&lt;3 I Never Got To Say My Last &quot;Goodbye&quot; to Him.
+ID: 94 -> Texto: "  Just got home, and I got to see my friend Zahra whom I haven't seen since We graduated!!!  That makes me so happy."
+ID: 97 -> Texto:   Mom says I have to get a new phone IMMEDIATELY....off to T-Mobile.  she paying....
+ID: 100 -> Texto:   no movie times for sunday!  Rats will have to plan tomorrow. I guess this means I have to work on those two  presentations I am doing!
+ID: 103 -> Texto:   oh thank you!
+ID: 113 -> Texto: "  Thanks, I need all the help i can get."
+ID: 116 -> Texto: "  told not to drink w/my Rx so just gave all the b.b. porter &amp; obs. stout that I brought home from OR to my neighbors.  v, v, sad."
+ID: 118 -> Texto: "  True, highly subjective of me there. Tombre was actually my favorite character in the book. You got me  - http://is.gd/13be0 - Rishabh"
+ID: 121 -> Texto:   waahhh now I'm getting sad....miss hub :-'(&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;
+ID: 124 -> Texto:   where is my picture i feel naked 
+ID: 125 -> Texto:   Why aren't there any trains going to manchester on a sunday?!!  Now I can't go to the @jonasbrothers concert.
+ID: 126 -> Texto:  - Why must people be so picky. I mean 6 hours work and no dice!? what�s up with that! http://tumblr.com/xsg1m3ufn
+ID: 130 -> Texto:  - You: hi Stranger: HELLO I AM FRANK LAMPARD HOW ARE YOU You: fine You: and urself Stranger: i am gay Your... http://tumblr.com/xaj24dkly
+ID: 131 -> Texto:   you'll always be my one and only...  [12*23*2007]
+ID: 144 -> Texto:  &quot;I know you hungry so lets go outside on the balcony so you can eat&quot;....
+ID: 145 -> Texto:  &quot;I want you so bad it's driving me  mad&quot;
+ID: 148 -> Texto:  &quot;Try to turn on my tv to get you out of my head. I've got this feeling inside that I just won't admit...&quot; (that is literally how I feel)
+ID: 149 -> Texto: " &quot;well, the truth is I miss you so&quot;- Coldplay"
+ID: 154 -> Texto: - *cries* I'm going to miss Harry Potter when it comes out.  I'm leaving to Vietnam on July 11th.  I'm going to cry!!
+ID: 155 -> Texto: -- *hummin* I SAY &quot;shut up &amp; put your money where your mouth is&quot; ...headin' out to reality. Cheers Twitter world! 
+ID: 156 -> Texto: -- . *sigh* You cant love someone that doesn't love you back that's like stalker status . GET a divorce &amp;&amp; move on . Trinity. 
+ID: 160 -> Texto:  .. i wantt hiim soo badd !!
+ID: 161 -> Texto: " .. watching tv , bed, shopping w. mom, out w. trent hopefully, i need my best friend"
+ID: 164 -> Texto:  ... Why am I feeling worse??? F!!!
+ID: 172 -> Texto: " : Let's have fun,. When I give ya what I give ya."
+ID: 173 -> Texto:  :[ I don't want to move!!!
+ID: 174 -> Texto: " :-D ))))))))...WHAT AN AMAZING NIGHT,DAY &amp; NIGHT AGAIN!! HI TWITS! I MiSS U GUYS"
+ID: 177 -> Texto:  @ taylorrhicks enjoy chicago..b new venue is always cool. You shine everywhere you go. I know who you are. In time so will everyone. 
+ID: 183 -> Texto:  @alexrauchman I am happy you are staying around here. Drexel is a fabulous university. You should be proud. yeah.
+ID: 186 -> Texto: " @ange_black @sween I call dibs on the Voltron arm. No the leg. Wait. Where are my manners? @baileygenine,.. http://tr.im/oERy"
+ID: 187 -> Texto:  @CharlottegC I just saw ur mum
+ID: 190 -> Texto:  @copicmarker&quot; facebook.com/copic.marker if you're cool. Or if you're not cool. Maybe I'll send some cool .. http://tr.im/oyT7
+ID: 191 -> Texto: ' @crewislife  you want to start the morning later; in New York we can do that  (Californians have it even better)
+ID: 195 -> Texto: "- @Darcy_Lussier @lkrammes I went to work once last year with no pants. Ironically, that was my last day of work at that job. FML "
+ID: 196 -> Texto: " @DirtyRose17  told you, you would sweep haha :-p"
+ID: 199 -> Texto: " @emilymariie why didnt you come to school?? have you done the short stack thing by yourself, or do you still need me?"
+ID: 204 -> Texto: "- @haugern The servers are now backup, if you experience any more problems then please let me know  Sorry about the delay..."
+ID: 205 -> Texto: " @hawaiibuzz: &quot;yes, i am lol j/k luv this! @DJDolceVita: &quot;you are like a gentle breeze that has blown throug... �(TM)� http://blip.fm/~7s7mn"
+ID: 208 -> Texto:  @Hijack_King7 I hope u have cheeSe burgerS 4 @Snubbmatic LMBO
+ID: 210 -> Texto:  @ivegotzooms I am nothing of the kind and everything of the sort http://tr.im/mLsn
+ID: 211 -> Texto: - @jerrybattiste &quot;..pick up some flowers for the teacher..&quot; I'm jealous! I want flowers without having to be in the hospital to get them! 
+ID: 213 -> Texto:  @jonasbrothers Why is your YouTube account suspended? lol Single Ladies dance? I NEED TO WATCH IT AGAIN!
+ID: 214 -> Texto: - @JuicyJones I know.. SOLD OUT though. 
+ID: 217 -> Texto:  @katiedontcry should get on aim and talk to me. i miss her.
+ID: 219 -> Texto: " @khead I'll tell ya, grocery store. It was better when you blasted the oldies. Sugar Ray does not make me.. http://tr.im/jd0y"
+ID: 223 -> Texto: "- @littlecharva - I'm immune to dentists' drills etc now, it just doesn't bother me at all. Having gum lift surgery next week tho *eek* "
+ID: 229 -> Texto:  @michaelsarver so do you give him every inch of your love every night?
+ID: 231 -> Texto: ' @minghao Maybe you can pop @StarHubCares a tweet. They are quite active on twitter. 
+ID: 233 -> Texto: - @nibaq Thanks for letting me know. I'm going to check out Eureka later with this knowledge 
+ID: 236 -> Texto: "- @PoisonGirl10 What's up? @sevgli Hey you!  @lowridergrl I'm doing ok, thx. You? @cristinerafae You, too! TTYL! @Nic0pic0 Oh, sowwy! lol"
+ID: 239 -> Texto:                                      I miss her so much already...
+ID: 240 -> Texto:                just practising.....how I feel       
+ID: 242 -> Texto:           FUCK YOU!
+ID: 245 -> Texto:        FS keeps crashing when I try to load Bungie plane.
+ID: 255 -> Texto: "   Awwwwwh  i wanted Aiden Davis 2 WIN, i &lt;3 him so bummed he didnt "
+ID: 258 -> Texto: "   Friends like these ... no thanks, I'm not fake! ^ ^"
+ID: 260 -> Texto:    i think my bf is cheating on me!!!!     
+ID: 261 -> Texto:    i wanna play with my camera but i will settle for playing with iv's and heart monitors
+ID: 262 -> Texto:    i want an octo drive
+ID: 263 -> Texto: "   I want to display my pretty voltron!  Upside, I get two pretty voltrons!"
+ID: 264 -> Texto:    i want to find a way to put my photos on phone here i have Bluetooth in both phone and computer but it doesn't work
+ID: 265 -> Texto:    IN an effort to bring you the best content we just added at lease 30 hours to the release of The digital Rapture.  soon... hang tight
+ID: 267 -> Texto: "   J, you are right... it hurts."
+ID: 271 -> Texto: "   man, oh man     (i should punch myself in the head, but im ok with that)"
+ID: 273 -> Texto: "   No man is worth your tears, and the one that is won't make you cry!"
+ID: 281 -> Texto:    we break dance not hearts by Short Stack is my ringtone.... i LOVE that song!!!.....
+ID: 283 -> Texto:   #squarespace #trackle  no apple iphone card for us  maybe tomorrow! I guess it helps if you tweet it huh?  We forgot 
+ID: 286 -> Texto:           i want some ben&amp;jerrys cake batter please ugh
+ID: 290 -> Texto:       i think i'm going to go 3 a long drive then when i get to the pacific ocean open my car door and throw my pc in the ocean
+ID: 293 -> Texto:      I dont like this weekend.. Huhuhu ( (
+ID: 294 -> Texto:      I'll get on it right away!
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'lampard OR frank'
+Entrada: lampard OR frank
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com duas palavras detectada: 'lampard OR frank'
+Resultado da uniao:
+ID: 130 -> Texto:  - You: hi Stranger: HELLO I AM FRANK LAMPARD HOW ARE YOU You: fine You: and urself Stranger: i am gay Your... http://tumblr.com/xaj24dkly
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'sad OR happy'
+Entrada: sad OR happy
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com duas palavras detectada: 'sad OR happy'
+Resultado da uniao:
+ID: 1 -> Texto:                      is so sad for my APL friend.............
+ID: 20 -> Texto:     I just cut my beard off. It's only been growing for well over a year. I'm gonna start it over. @shaunamanu is happy in the meantime.
+ID: 21 -> Texto:     Very sad about Iran.
+ID: 24 -> Texto:    &lt;---Sad level is 3. I was writing a massive blog tweet on Myspace and my comp shut down. Now it's all lost *lays in fetal position*
+ID: 47 -> Texto:   @Spiral_galaxy @YMPtweet  it really makes me sad when i look at Muslims reality now
+ID: 92 -> Texto:   Jus Got Hom Fr. TDa Funeral... I'm So Sad! I Cried So Much Times! Much Love Grandpa!&lt;3 I Never Got To Say My Last &quot;Goodbye&quot; to Him.
+ID: 94 -> Texto: "  Just got home, and I got to see my friend Zahra whom I haven't seen since We graduated!!!  That makes me so happy."
+ID: 116 -> Texto: "  told not to drink w/my Rx so just gave all the b.b. porter &amp; obs. stout that I brought home from OR to my neighbors.  v, v, sad."
+ID: 121 -> Texto:   waahhh now I'm getting sad....miss hub :-'(&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;
+ID: 183 -> Texto:  @alexrauchman I am happy you are staying around here. Drexel is a fabulous university. You should be proud. yeah.
+ID: 194 -> Texto:  @danregal  tell @pfont i said Happy BDay!! 
+ID: 237 -> Texto:  @RAPPUBLICIST HAPPY MOTHERS DAY!
+ID: 248 -> Texto:      I am happy     
+ID: 297 -> Texto:      who else is in a happy mood?? =D
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'love OR hate'
+Entrada: love OR hate
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com duas palavras detectada: 'love OR hate'
+Resultado da uniao:
+ID: 31 -> Texto:    I hate it when any athlete appears to tear an ACL on live television.
+ID: 57 -> Texto:   friends are leaving me 'cause of this stupid love  http://bit.ly/ZoxZC
+ID: 61 -> Texto:   hate u ...  leysh t9ar5 ... =((((((( ..
+ID: 65 -> Texto:   I hate allergies. Should I get my hair cut tomorrow? I'm taking a public poll...
+ID: 66 -> Texto:  - I love you guys so much that it hurts. http://tumblr.com/xkh1z19us
+ID: 92 -> Texto:   Jus Got Hom Fr. TDa Funeral... I'm So Sad! I Cried So Much Times! Much Love Grandpa!&lt;3 I Never Got To Say My Last &quot;Goodbye&quot; to Him.
+ID: 156 -> Texto: -- . *sigh* You cant love someone that doesn't love you back that's like stalker status . GET a divorce &amp;&amp; move on . Trinity. 
+ID: 158 -> Texto: "-- . Aiqht Goodniqht . Tri, Neena, Malcolm, Chaise , JLew, ATL &lt;333 Love Much . "
+ID: 229 -> Texto:  @michaelsarver so do you give him every inch of your love every night?
+ID: 241 -> Texto:             Miss my love Jamie
+ID: 278 -> Texto:    thank god today is friday !!! I love Ti Ti! &lt;3
+ID: 281 -> Texto:    we break dance not hearts by Short Stack is my ringtone.... i LOVE that song!!!.....
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+# Testes de Operadores Válidos (NOT)
+
+Executando teste: 'i NOT love'
+Entrada: i NOT love
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com duas palavras detectada: 'i NOT love'
+Resultado da diferenca:
+ID: 2 -> Texto:                    I missed the New Moon trailer...
+ID: 4 -> Texto:           .. Omgaga. Im sooo  im gunna CRy. I've been at this dentist since 11.. I was suposed 2 just get a crown put on (30mins)...
+ID: 5 -> Texto:          i think mi bf is cheating on me!!!       T_T
+ID: 6 -> Texto:          or i just worry too much?        
+ID: 9 -> Texto:       handed in my uniform today . i miss you already
+ID: 10 -> Texto:       hmmmm.... i wonder how she my number @-)
+ID: 11 -> Texto:       I must think about positive..
+ID: 16 -> Texto:     &lt;-------- This is the way i feel right now...
+ID: 17 -> Texto: "    awhhe man.... I'm completely useless rt now. Funny, all I can do is twitter. http://myloc.me/27HX"
+ID: 18 -> Texto:     Feeling strangely fine. Now I'm gonna go listen to some Semisonic to celebrate
+ID: 20 -> Texto:     I just cut my beard off. It's only been growing for well over a year. I'm gonna start it over. @shaunamanu is happy in the meantime.
+ID: 24 -> Texto:    &lt;---Sad level is 3. I was writing a massive blog tweet on Myspace and my comp shut down. Now it's all lost *lays in fetal position*
+ID: 25 -> Texto:    ...  Headed to Hospitol : Had to pull out of the Golf Tourny in 3rd place!!!!!!!!!!! I Think I Re-Ripped something !!! Yeah THAT !!
+ID: 27 -> Texto:    can't be bothered. i wish i could spend the rest of my life just sat here and going to gigs. seriously.
+ID: 30 -> Texto:    I didn't realize it was THAT deep. Geez give a girl a warning atleast!
+ID: 31 -> Texto:    I hate it when any athlete appears to tear an ACL on live television.
+ID: 32 -> Texto:    i miss you guys too     i think i'm wearing skinny jeans a cute sweater and heels   not really sure   what are you doing today
+ID: 36 -> Texto:    Really Dont Like Doing my Room Its So Boring  Sick Of Doing My Wardrobe Out Cant Waiit Till I Have My Walk In One  Yay
+ID: 44 -> Texto: "  ... Do I need to even say it?  Do I?  Well, here I go anyways:  CHRIS CORNELL IN CHICAGO!  ... TONIGHT!    "
+ID: 47 -> Texto:   @Spiral_galaxy @YMPtweet  it really makes me sad when i look at Muslims reality now
+ID: 54 -> Texto:   but i'm proud.
+ID: 56 -> Texto:   David must be hospitalized for five days end of July (palatine tonsils). I will probably never see Katie in concert. 
+ID: 62 -> Texto: -  I always get what I want
+ID: 63 -> Texto:   I bend backwards  
+ID: 64 -> Texto:   i get off work sooooon! i miss cody booo. haven't seen him in foreverr!
+ID: 65 -> Texto:   I hate allergies. Should I get my hair cut tomorrow? I'm taking a public poll...
+ID: 67 -> Texto:   I miss Earl
+ID: 69 -> Texto: "  I missed the first hour of SYTYCD last night, and I can't find it online!"
+ID: 70 -> Texto:   I need a U2 fix NOW!
+ID: 71 -> Texto:   I never thought I'd become second choice...
+ID: 73 -> Texto:   I think Manuel (my Basil plant) only has days to live   
+ID: 74 -> Texto:   I wanna be at home @ church...I wonder wht they are doing?
+ID: 75 -> Texto:   i wanna make my own pizza
+ID: 76 -> Texto: "  i want a 120gb harddrive, or a 37 inch tv, or a new guitar.  anyonefeeling generous?  =p   x"
+ID: 77 -> Texto:   i want a hug
+ID: 79 -> Texto:   I wanted to sleep in this morning but a mean kid through a popsicle stick at me head. I wish I could fly away like those squirrels
+ID: 80 -> Texto:   i was too slow to get $1 Up tix
+ID: 81 -> Texto: "  I will send sunshine to Northern Ireland, are you going swimming today @kezbat"
+ID: 82 -> Texto:   I wish I could go to T4 On The Beach :'(    Would be great to see @Shontelle_Layne &amp; @DanMerriweather   
+ID: 83 -> Texto: "  i would be so much happier if the walls of my bedroom were painted white,"
+ID: 84 -> Texto:   idk wat 2 do who can i trust me im sorry 4 all da pain i have caused nebody ima take dis time out 2 straighten myself out i luv yall
+ID: 85 -> Texto:   I'm finding the intercept slope..and banging my head against the wall..Math brain heads come save me
+ID: 86 -> Texto:   I'm really going to bed now...
+ID: 89 -> Texto:   In case I feel emo in camp (feeling a wee bit of it alr)...am bringing in the Human Rights Watch World Report 2009..hope it'll work
+ID: 94 -> Texto: "  Just got home, and I got to see my friend Zahra whom I haven't seen since We graduated!!!  That makes me so happy."
+ID: 97 -> Texto:   Mom says I have to get a new phone IMMEDIATELY....off to T-Mobile.  she paying....
+ID: 100 -> Texto:   no movie times for sunday!  Rats will have to plan tomorrow. I guess this means I have to work on those two  presentations I am doing!
+ID: 113 -> Texto: "  Thanks, I need all the help i can get."
+ID: 116 -> Texto: "  told not to drink w/my Rx so just gave all the b.b. porter &amp; obs. stout that I brought home from OR to my neighbors.  v, v, sad."
+ID: 121 -> Texto:   waahhh now I'm getting sad....miss hub :-'(&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;
+ID: 124 -> Texto:   where is my picture i feel naked 
+ID: 125 -> Texto:   Why aren't there any trains going to manchester on a sunday?!!  Now I can't go to the @jonasbrothers concert.
+ID: 126 -> Texto:  - Why must people be so picky. I mean 6 hours work and no dice!? what�s up with that! http://tumblr.com/xsg1m3ufn
+ID: 130 -> Texto:  - You: hi Stranger: HELLO I AM FRANK LAMPARD HOW ARE YOU You: fine You: and urself Stranger: i am gay Your... http://tumblr.com/xaj24dkly
+ID: 144 -> Texto:  &quot;I know you hungry so lets go outside on the balcony so you can eat&quot;....
+ID: 145 -> Texto:  &quot;I want you so bad it's driving me  mad&quot;
+ID: 148 -> Texto:  &quot;Try to turn on my tv to get you out of my head. I've got this feeling inside that I just won't admit...&quot; (that is literally how I feel)
+ID: 149 -> Texto: " &quot;well, the truth is I miss you so&quot;- Coldplay"
+ID: 154 -> Texto: - *cries* I'm going to miss Harry Potter when it comes out.  I'm leaving to Vietnam on July 11th.  I'm going to cry!!
+ID: 155 -> Texto: -- *hummin* I SAY &quot;shut up &amp; put your money where your mouth is&quot; ...headin' out to reality. Cheers Twitter world! 
+ID: 160 -> Texto:  .. i wantt hiim soo badd !!
+ID: 161 -> Texto: " .. watching tv , bed, shopping w. mom, out w. trent hopefully, i need my best friend"
+ID: 164 -> Texto:  ... Why am I feeling worse??? F!!!
+ID: 172 -> Texto: " : Let's have fun,. When I give ya what I give ya."
+ID: 173 -> Texto:  :[ I don't want to move!!!
+ID: 174 -> Texto: " :-D ))))))))...WHAT AN AMAZING NIGHT,DAY &amp; NIGHT AGAIN!! HI TWITS! I MiSS U GUYS"
+ID: 177 -> Texto:  @ taylorrhicks enjoy chicago..b new venue is always cool. You shine everywhere you go. I know who you are. In time so will everyone. 
+ID: 186 -> Texto: " @ange_black @sween I call dibs on the Voltron arm. No the leg. Wait. Where are my manners? @baileygenine,.. http://tr.im/oERy"
+ID: 187 -> Texto:  @CharlottegC I just saw ur mum
+ID: 195 -> Texto: "- @Darcy_Lussier @lkrammes I went to work once last year with no pants. Ironically, that was my last day of work at that job. FML "
+ID: 205 -> Texto: " @hawaiibuzz: &quot;yes, i am lol j/k luv this! @DJDolceVita: &quot;you are like a gentle breeze that has blown throug... �(TM)� http://blip.fm/~7s7mn"
+ID: 208 -> Texto:  @Hijack_King7 I hope u have cheeSe burgerS 4 @Snubbmatic LMBO
+ID: 210 -> Texto:  @ivegotzooms I am nothing of the kind and everything of the sort http://tr.im/mLsn
+ID: 211 -> Texto: - @jerrybattiste &quot;..pick up some flowers for the teacher..&quot; I'm jealous! I want flowers without having to be in the hospital to get them! 
+ID: 213 -> Texto:  @jonasbrothers Why is your YouTube account suspended? lol Single Ladies dance? I NEED TO WATCH IT AGAIN!
+ID: 214 -> Texto: - @JuicyJones I know.. SOLD OUT though. 
+ID: 217 -> Texto:  @katiedontcry should get on aim and talk to me. i miss her.
+ID: 219 -> Texto: " @khead I'll tell ya, grocery store. It was better when you blasted the oldies. Sugar Ray does not make me.. http://tr.im/jd0y"
+ID: 223 -> Texto: "- @littlecharva - I'm immune to dentists' drills etc now, it just doesn't bother me at all. Having gum lift surgery next week tho *eek* "
+ID: 233 -> Texto: - @nibaq Thanks for letting me know. I'm going to check out Eureka later with this knowledge 
+ID: 236 -> Texto: "- @PoisonGirl10 What's up? @sevgli Hey you!  @lowridergrl I'm doing ok, thx. You? @cristinerafae You, too! TTYL! @Nic0pic0 Oh, sowwy! lol"
+ID: 239 -> Texto:                                      I miss her so much already...
+ID: 240 -> Texto:                just practising.....how I feel       
+ID: 245 -> Texto:        FS keeps crashing when I try to load Bungie plane.
+ID: 255 -> Texto: "   Awwwwwh  i wanted Aiden Davis 2 WIN, i &lt;3 him so bummed he didnt "
+ID: 258 -> Texto: "   Friends like these ... no thanks, I'm not fake! ^ ^"
+ID: 260 -> Texto:    i think my bf is cheating on me!!!!     
+ID: 261 -> Texto:    i wanna play with my camera but i will settle for playing with iv's and heart monitors
+ID: 262 -> Texto:    i want an octo drive
+ID: 263 -> Texto: "   I want to display my pretty voltron!  Upside, I get two pretty voltrons!"
+ID: 264 -> Texto:    i want to find a way to put my photos on phone here i have Bluetooth in both phone and computer but it doesn't work
+ID: 271 -> Texto: "   man, oh man     (i should punch myself in the head, but im ok with that)"
+ID: 283 -> Texto:   #squarespace #trackle  no apple iphone card for us  maybe tomorrow! I guess it helps if you tweet it huh?  We forgot 
+ID: 286 -> Texto:           i want some ben&amp;jerrys cake batter please ugh
+ID: 290 -> Texto:       i think i'm going to go 3 a long drive then when i get to the pacific ocean open my car door and throw my pc in the ocean
+ID: 293 -> Texto:      I dont like this weekend.. Huhuhu ( (
+ID: 294 -> Texto:      I'll get on it right away!
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'love NOT hate'
+Entrada: love NOT hate
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com duas palavras detectada: 'love NOT hate'
+Resultado da diferenca:
+ID: 57 -> Texto:   friends are leaving me 'cause of this stupid love  http://bit.ly/ZoxZC
+ID: 66 -> Texto:  - I love you guys so much that it hurts. http://tumblr.com/xkh1z19us
+ID: 92 -> Texto:   Jus Got Hom Fr. TDa Funeral... I'm So Sad! I Cried So Much Times! Much Love Grandpa!&lt;3 I Never Got To Say My Last &quot;Goodbye&quot; to Him.
+ID: 156 -> Texto: -- . *sigh* You cant love someone that doesn't love you back that's like stalker status . GET a divorce &amp;&amp; move on . Trinity. 
+ID: 158 -> Texto: "-- . Aiqht Goodniqht . Tri, Neena, Malcolm, Chaise , JLew, ATL &lt;333 Love Much . "
+ID: 229 -> Texto:  @michaelsarver so do you give him every inch of your love every night?
+ID: 241 -> Texto:             Miss my love Jamie
+ID: 278 -> Texto:    thank god today is friday !!! I love Ti Ti! &lt;3
+ID: 281 -> Texto:    we break dance not hearts by Short Stack is my ringtone.... i LOVE that song!!!.....
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'hello NOT goodbye'
+Entrada: hello NOT goodbye
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com duas palavras detectada: 'hello NOT goodbye'
+Resultado da diferenca:
+ID: 130 -> Texto:  - You: hi Stranger: HELLO I AM FRANK LAMPARD HOW ARE YOU You: fine You: and urself Stranger: i am gay Your... http://tumblr.com/xaj24dkly
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'man NOT woman'
+Entrada: man NOT woman
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com duas palavras detectada: 'man NOT woman'
+Resultado da diferenca:
+ID: 17 -> Texto: "    awhhe man.... I'm completely useless rt now. Funny, all I can do is twitter. http://myloc.me/27HX"
+ID: 271 -> Texto: "   man, oh man     (i should punch myself in the head, but im ok with that)"
+ID: 273 -> Texto: "   No man is worth your tears, and the one that is won't make you cry!"
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'sad NOT happy'
+Entrada: sad NOT happy
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com duas palavras detectada: 'sad NOT happy'
+Resultado da diferenca:
+ID: 1 -> Texto:                      is so sad for my APL friend.............
+ID: 21 -> Texto:     Very sad about Iran.
+ID: 24 -> Texto:    &lt;---Sad level is 3. I was writing a massive blog tweet on Myspace and my comp shut down. Now it's all lost *lays in fetal position*
+ID: 47 -> Texto:   @Spiral_galaxy @YMPtweet  it really makes me sad when i look at Muslims reality now
+ID: 92 -> Texto:   Jus Got Hom Fr. TDa Funeral... I'm So Sad! I Cried So Much Times! Much Love Grandpa!&lt;3 I Never Got To Say My Last &quot;Goodbye&quot; to Him.
+ID: 116 -> Texto: "  told not to drink w/my Rx so just gave all the b.b. porter &amp; obs. stout that I brought home from OR to my neighbors.  v, v, sad."
+ID: 121 -> Texto:   waahhh now I'm getting sad....miss hub :-'(&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+# Testes de Combinações de Palavras e Operadores (Complexos)
+
+Executando teste: 'i AND love AND you # Teste de formato inválido (mais de um operador)'
+Entrada: i AND love AND you # Teste de formato inválido (mais de um operador)
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com duas palavras detectada: 'i AND love'
+Resultado da interseccao:
+ID: 66 -> Texto:  - I love you guys so much that it hurts. http://tumblr.com/xkh1z19us
+ID: 92 -> Texto:   Jus Got Hom Fr. TDa Funeral... I'm So Sad! I Cried So Much Times! Much Love Grandpa!&lt;3 I Never Got To Say My Last &quot;Goodbye&quot; to Him.
+ID: 281 -> Texto:    we break dance not hearts by Short Stack is my ringtone.... i LOVE that song!!!.....
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'love OR hate AND me # Teste de formato inválido (mais de um operador)'
+Entrada: love OR hate AND me # Teste de formato inválido (mais de um operador)
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com duas palavras detectada: 'love OR hate'
+Resultado da uniao:
+ID: 31 -> Texto:    I hate it when any athlete appears to tear an ACL on live television.
+ID: 57 -> Texto:   friends are leaving me 'cause of this stupid love  http://bit.ly/ZoxZC
+ID: 61 -> Texto:   hate u ...  leysh t9ar5 ... =((((((( ..
+ID: 65 -> Texto:   I hate allergies. Should I get my hair cut tomorrow? I'm taking a public poll...
+ID: 66 -> Texto:  - I love you guys so much that it hurts. http://tumblr.com/xkh1z19us
+ID: 92 -> Texto:   Jus Got Hom Fr. TDa Funeral... I'm So Sad! I Cried So Much Times! Much Love Grandpa!&lt;3 I Never Got To Say My Last &quot;Goodbye&quot; to Him.
+ID: 156 -> Texto: -- . *sigh* You cant love someone that doesn't love you back that's like stalker status . GET a divorce &amp;&amp; move on . Trinity. 
+ID: 158 -> Texto: "-- . Aiqht Goodniqht . Tri, Neena, Malcolm, Chaise , JLew, ATL &lt;333 Love Much . "
+ID: 229 -> Texto:  @michaelsarver so do you give him every inch of your love every night?
+ID: 241 -> Texto:             Miss my love Jamie
+ID: 278 -> Texto:    thank god today is friday !!! I love Ti Ti! &lt;3
+ID: 281 -> Texto:    we break dance not hearts by Short Stack is my ringtone.... i LOVE that song!!!.....
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'hello AND (lampard OR frank) # Teste de formato inválido (parênteses)'
+Entrada: hello AND (lampard OR frank) # Teste de formato inválido (parênteses)
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com duas palavras detectada: 'hello AND (lampard'
+Resultado da interseccao:
+Nenhum tweet encontrado para a consulta.
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+# Testes de Entradas Inválidas / Mal Formadas
+
+Executando teste: 'i am'
+Entrada: i am
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Formato de consulta inválido. Use 'palavra' ou 'palavra1 OPERADOR palavra2' (OP = AND, OR, NOT).
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'hello AND'
+Entrada: hello AND
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Formato de consulta inválido. Use 'palavra' ou 'palavra1 OPERADOR palavra2' (OP = AND, OR, NOT).
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'AND hello'
+Entrada: AND hello
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com duas palavras detectada: 'AND hel lo'
+Operador 'hel' inválido. Use 'AND', 'OR' ou 'NOT'.
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'hello AND AND lampard'
+Entrada: hello AND AND lampard
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com duas palavras detectada: 'hello AND AND'
+Resultado da interseccao:
+ID: 130 -> Texto:  - You: hi Stranger: HELLO I AM FRANK LAMPARD HOW ARE YOU You: fine You: and urself Stranger: i am gay Your... http://tumblr.com/xaj24dkly
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'oi AND OR hello'
+Entrada: oi AND OR hello
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com duas palavras detectada: 'oi AND OR'
+Resultado da interseccao:
+Nenhum tweet encontrado para a consulta.
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'palavra1 OPERADOR palavra2 # Formato genérico, inválido'
+Entrada: palavra1 OPERADOR palavra2 # Formato genérico, inválido
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com duas palavras detectada: 'palavra1 OPE RADOR'
+Operador 'OPE' inválido. Use 'AND', 'OR' ou 'NOT'.
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'helloANDlampard # Sem espaço no operador'
+Entrada: helloANDlampard # Sem espaço no operador
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com duas palavras detectada: 'helloANDlampard # Sem'
+Operador '#' inválido. Use 'AND', 'OR' ou 'NOT'.
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'testetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetesteteste # Palavra muito longa'
+Entrada: testetestetestetestetestetestetestetestetestetestetestetestetestetestetestetestetesteteste # Palavra muito longa
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com duas palavras detectada: 'testetestetestetestetestetestetestetestetestetest ete stetestetestetestetestetestetesteteste'
+Operador 'ete' inválido. Use 'AND', 'OR' ou 'NOT'.
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'hello AND tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt # Palavra muito longa'
+Entrada: hello AND tttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt # Palavra muito longa
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com duas palavras detectada: 'hello AND ttttttttttttttttttttttttttttttttttttttttttttttttt'
+Resultado da interseccao:
+Nenhum tweet encontrado para a consulta.
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+# Testes de Sensibilidade a Maiúsculas/Minúsculas
+
+Executando teste: 'HELLO'
+Entrada: HELLO
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com uma palavra detectada: 'HELLO'
+Resultado da pesquisa unica:
+ID: 29 -> Texto: "   goodbye exams, HELLO ALCOHOL TONIGHT "
+ID: 130 -> Texto:  - You: hi Stranger: HELLO I AM FRANK LAMPARD HOW ARE YOU You: fine You: and urself Stranger: i am gay Your... http://tumblr.com/xaj24dkly
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'Lampard'
+Entrada: Lampard
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com uma palavra detectada: 'Lampard'
+Resultado da pesquisa unica:
+ID: 130 -> Texto:  - You: hi Stranger: HELLO I AM FRANK LAMPARD HOW ARE YOU You: fine You: and urself Stranger: i am gay Your... http://tumblr.com/xaj24dkly
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'I'
+Entrada: I
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com uma palavra detectada: 'I'
+Resultado da pesquisa unica:
+ID: 2 -> Texto:                    I missed the New Moon trailer...
+ID: 4 -> Texto:           .. Omgaga. Im sooo  im gunna CRy. I've been at this dentist since 11.. I was suposed 2 just get a crown put on (30mins)...
+ID: 5 -> Texto:          i think mi bf is cheating on me!!!       T_T
+ID: 6 -> Texto:          or i just worry too much?        
+ID: 9 -> Texto:       handed in my uniform today . i miss you already
+ID: 10 -> Texto:       hmmmm.... i wonder how she my number @-)
+ID: 11 -> Texto:       I must think about positive..
+ID: 16 -> Texto:     &lt;-------- This is the way i feel right now...
+ID: 17 -> Texto: "    awhhe man.... I'm completely useless rt now. Funny, all I can do is twitter. http://myloc.me/27HX"
+ID: 18 -> Texto:     Feeling strangely fine. Now I'm gonna go listen to some Semisonic to celebrate
+ID: 20 -> Texto:     I just cut my beard off. It's only been growing for well over a year. I'm gonna start it over. @shaunamanu is happy in the meantime.
+ID: 24 -> Texto:    &lt;---Sad level is 3. I was writing a massive blog tweet on Myspace and my comp shut down. Now it's all lost *lays in fetal position*
+ID: 25 -> Texto:    ...  Headed to Hospitol : Had to pull out of the Golf Tourny in 3rd place!!!!!!!!!!! I Think I Re-Ripped something !!! Yeah THAT !!
+ID: 27 -> Texto:    can't be bothered. i wish i could spend the rest of my life just sat here and going to gigs. seriously.
+ID: 30 -> Texto:    I didn't realize it was THAT deep. Geez give a girl a warning atleast!
+ID: 31 -> Texto:    I hate it when any athlete appears to tear an ACL on live television.
+ID: 32 -> Texto:    i miss you guys too     i think i'm wearing skinny jeans a cute sweater and heels   not really sure   what are you doing today
+ID: 36 -> Texto:    Really Dont Like Doing my Room Its So Boring  Sick Of Doing My Wardrobe Out Cant Waiit Till I Have My Walk In One  Yay
+ID: 44 -> Texto: "  ... Do I need to even say it?  Do I?  Well, here I go anyways:  CHRIS CORNELL IN CHICAGO!  ... TONIGHT!    "
+ID: 47 -> Texto:   @Spiral_galaxy @YMPtweet  it really makes me sad when i look at Muslims reality now
+ID: 54 -> Texto:   but i'm proud.
+ID: 56 -> Texto:   David must be hospitalized for five days end of July (palatine tonsils). I will probably never see Katie in concert. 
+ID: 62 -> Texto: -  I always get what I want
+ID: 63 -> Texto:   I bend backwards  
+ID: 64 -> Texto:   i get off work sooooon! i miss cody booo. haven't seen him in foreverr!
+ID: 65 -> Texto:   I hate allergies. Should I get my hair cut tomorrow? I'm taking a public poll...
+ID: 66 -> Texto:  - I love you guys so much that it hurts. http://tumblr.com/xkh1z19us
+ID: 67 -> Texto:   I miss Earl
+ID: 69 -> Texto: "  I missed the first hour of SYTYCD last night, and I can't find it online!"
+ID: 70 -> Texto:   I need a U2 fix NOW!
+ID: 71 -> Texto:   I never thought I'd become second choice...
+ID: 73 -> Texto:   I think Manuel (my Basil plant) only has days to live   
+ID: 74 -> Texto:   I wanna be at home @ church...I wonder wht they are doing?
+ID: 75 -> Texto:   i wanna make my own pizza
+ID: 76 -> Texto: "  i want a 120gb harddrive, or a 37 inch tv, or a new guitar.  anyonefeeling generous?  =p   x"
+ID: 77 -> Texto:   i want a hug
+ID: 79 -> Texto:   I wanted to sleep in this morning but a mean kid through a popsicle stick at me head. I wish I could fly away like those squirrels
+ID: 80 -> Texto:   i was too slow to get $1 Up tix
+ID: 81 -> Texto: "  I will send sunshine to Northern Ireland, are you going swimming today @kezbat"
+ID: 82 -> Texto:   I wish I could go to T4 On The Beach :'(    Would be great to see @Shontelle_Layne &amp; @DanMerriweather   
+ID: 83 -> Texto: "  i would be so much happier if the walls of my bedroom were painted white,"
+ID: 84 -> Texto:   idk wat 2 do who can i trust me im sorry 4 all da pain i have caused nebody ima take dis time out 2 straighten myself out i luv yall
+ID: 85 -> Texto:   I'm finding the intercept slope..and banging my head against the wall..Math brain heads come save me
+ID: 86 -> Texto:   I'm really going to bed now...
+ID: 89 -> Texto:   In case I feel emo in camp (feeling a wee bit of it alr)...am bringing in the Human Rights Watch World Report 2009..hope it'll work
+ID: 92 -> Texto:   Jus Got Hom Fr. TDa Funeral... I'm So Sad! I Cried So Much Times! Much Love Grandpa!&lt;3 I Never Got To Say My Last &quot;Goodbye&quot; to Him.
+ID: 94 -> Texto: "  Just got home, and I got to see my friend Zahra whom I haven't seen since We graduated!!!  That makes me so happy."
+ID: 97 -> Texto:   Mom says I have to get a new phone IMMEDIATELY....off to T-Mobile.  she paying....
+ID: 100 -> Texto:   no movie times for sunday!  Rats will have to plan tomorrow. I guess this means I have to work on those two  presentations I am doing!
+ID: 113 -> Texto: "  Thanks, I need all the help i can get."
+ID: 116 -> Texto: "  told not to drink w/my Rx so just gave all the b.b. porter &amp; obs. stout that I brought home from OR to my neighbors.  v, v, sad."
+ID: 121 -> Texto:   waahhh now I'm getting sad....miss hub :-'(&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;
+ID: 124 -> Texto:   where is my picture i feel naked 
+ID: 125 -> Texto:   Why aren't there any trains going to manchester on a sunday?!!  Now I can't go to the @jonasbrothers concert.
+ID: 126 -> Texto:  - Why must people be so picky. I mean 6 hours work and no dice!? what�s up with that! http://tumblr.com/xsg1m3ufn
+ID: 130 -> Texto:  - You: hi Stranger: HELLO I AM FRANK LAMPARD HOW ARE YOU You: fine You: and urself Stranger: i am gay Your... http://tumblr.com/xaj24dkly
+ID: 144 -> Texto:  &quot;I know you hungry so lets go outside on the balcony so you can eat&quot;....
+ID: 145 -> Texto:  &quot;I want you so bad it's driving me  mad&quot;
+ID: 148 -> Texto:  &quot;Try to turn on my tv to get you out of my head. I've got this feeling inside that I just won't admit...&quot; (that is literally how I feel)
+ID: 149 -> Texto: " &quot;well, the truth is I miss you so&quot;- Coldplay"
+ID: 154 -> Texto: - *cries* I'm going to miss Harry Potter when it comes out.  I'm leaving to Vietnam on July 11th.  I'm going to cry!!
+ID: 155 -> Texto: -- *hummin* I SAY &quot;shut up &amp; put your money where your mouth is&quot; ...headin' out to reality. Cheers Twitter world! 
+ID: 160 -> Texto:  .. i wantt hiim soo badd !!
+ID: 161 -> Texto: " .. watching tv , bed, shopping w. mom, out w. trent hopefully, i need my best friend"
+ID: 164 -> Texto:  ... Why am I feeling worse??? F!!!
+ID: 172 -> Texto: " : Let's have fun,. When I give ya what I give ya."
+ID: 173 -> Texto:  :[ I don't want to move!!!
+ID: 174 -> Texto: " :-D ))))))))...WHAT AN AMAZING NIGHT,DAY &amp; NIGHT AGAIN!! HI TWITS! I MiSS U GUYS"
+ID: 177 -> Texto:  @ taylorrhicks enjoy chicago..b new venue is always cool. You shine everywhere you go. I know who you are. In time so will everyone. 
+ID: 186 -> Texto: " @ange_black @sween I call dibs on the Voltron arm. No the leg. Wait. Where are my manners? @baileygenine,.. http://tr.im/oERy"
+ID: 187 -> Texto:  @CharlottegC I just saw ur mum
+ID: 195 -> Texto: "- @Darcy_Lussier @lkrammes I went to work once last year with no pants. Ironically, that was my last day of work at that job. FML "
+ID: 205 -> Texto: " @hawaiibuzz: &quot;yes, i am lol j/k luv this! @DJDolceVita: &quot;you are like a gentle breeze that has blown throug... �(TM)� http://blip.fm/~7s7mn"
+ID: 208 -> Texto:  @Hijack_King7 I hope u have cheeSe burgerS 4 @Snubbmatic LMBO
+ID: 210 -> Texto:  @ivegotzooms I am nothing of the kind and everything of the sort http://tr.im/mLsn
+ID: 211 -> Texto: - @jerrybattiste &quot;..pick up some flowers for the teacher..&quot; I'm jealous! I want flowers without having to be in the hospital to get them! 
+ID: 213 -> Texto:  @jonasbrothers Why is your YouTube account suspended? lol Single Ladies dance? I NEED TO WATCH IT AGAIN!
+ID: 214 -> Texto: - @JuicyJones I know.. SOLD OUT though. 
+ID: 217 -> Texto:  @katiedontcry should get on aim and talk to me. i miss her.
+ID: 219 -> Texto: " @khead I'll tell ya, grocery store. It was better when you blasted the oldies. Sugar Ray does not make me.. http://tr.im/jd0y"
+ID: 223 -> Texto: "- @littlecharva - I'm immune to dentists' drills etc now, it just doesn't bother me at all. Having gum lift surgery next week tho *eek* "
+ID: 233 -> Texto: - @nibaq Thanks for letting me know. I'm going to check out Eureka later with this knowledge 
+ID: 236 -> Texto: "- @PoisonGirl10 What's up? @sevgli Hey you!  @lowridergrl I'm doing ok, thx. You? @cristinerafae You, too! TTYL! @Nic0pic0 Oh, sowwy! lol"
+ID: 239 -> Texto:                                      I miss her so much already...
+ID: 240 -> Texto:                just practising.....how I feel       
+ID: 245 -> Texto:        FS keeps crashing when I try to load Bungie plane.
+ID: 255 -> Texto: "   Awwwwwh  i wanted Aiden Davis 2 WIN, i &lt;3 him so bummed he didnt "
+ID: 258 -> Texto: "   Friends like these ... no thanks, I'm not fake! ^ ^"
+ID: 260 -> Texto:    i think my bf is cheating on me!!!!     
+ID: 261 -> Texto:    i wanna play with my camera but i will settle for playing with iv's and heart monitors
+ID: 262 -> Texto:    i want an octo drive
+ID: 263 -> Texto: "   I want to display my pretty voltron!  Upside, I get two pretty voltrons!"
+ID: 264 -> Texto:    i want to find a way to put my photos on phone here i have Bluetooth in both phone and computer but it doesn't work
+ID: 271 -> Texto: "   man, oh man     (i should punch myself in the head, but im ok with that)"
+ID: 281 -> Texto:    we break dance not hearts by Short Stack is my ringtone.... i LOVE that song!!!.....
+ID: 283 -> Texto:   #squarespace #trackle  no apple iphone card for us  maybe tomorrow! I guess it helps if you tweet it huh?  We forgot 
+ID: 286 -> Texto:           i want some ben&amp;jerrys cake batter please ugh
+ID: 290 -> Texto:       i think i'm going to go 3 a long drive then when i get to the pacific ocean open my car door and throw my pc in the ocean
+ID: 293 -> Texto:      I dont like this weekend.. Huhuhu ( (
+ID: 294 -> Texto:      I'll get on it right away!
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'Hi'
+Entrada: Hi
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com uma palavra detectada: 'Hi'
+Resultado da pesquisa unica:
+ID: 130 -> Texto:  - You: hi Stranger: HELLO I AM FRANK LAMPARD HOW ARE YOU You: fine You: and urself Stranger: i am gay Your... http://tumblr.com/xaj24dkly
+ID: 174 -> Texto: " :-D ))))))))...WHAT AN AMAZING NIGHT,DAY &amp; NIGHT AGAIN!! HI TWITS! I MiSS U GUYS"
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+Executando teste: 'love AND ME'
+Entrada: love AND ME
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Consulta com duas palavras detectada: 'love AND ME'
+Resultado da interseccao:
+ID: 57 -> Texto:   friends are leaving me 'cause of this stupid love  http://bit.ly/ZoxZC
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------
+
+# Teste de Saída
+
+Executando teste final: 'sair'
+Entrada: sair
+
+Digite 'sair' ou insira sua consulta (ex: palavra, ou palavra1 AND palavra2): Fechando buscador...
+Teste concluído.
+---------------------------------------------------

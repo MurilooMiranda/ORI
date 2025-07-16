@@ -70,6 +70,11 @@ A organização do projeto segue uma abordagem modular para facilitar a manuten�
 .
 ├── main.c              # Ponto de entrada do programa e interpretador de consultas
 ├── corpus.csv          # Conjunto de dados de entrada (tweets) [não incluído diretamente no repositório]
+├── README.md           # Arquivo com informações sobre o projeto e como executá-lo
+├── buscador            # O executável compilado do seu programa
+├── output_log.txt      # Arquivo para logs de saída ou resultados de processamento
+├── run_tests.sh        # Script shell para rodar testes automatizados
+├── test_cases.txt      # Arquivo contendo os casos de teste para o script
 │
 ├── Hash/
 │   ├── TabelaHash.c    # Lógica da Tabela Hash (indexação e busca por palavra)
